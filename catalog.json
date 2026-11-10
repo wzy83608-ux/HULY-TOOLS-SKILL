@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-10",
+  "count": 2,
+  "categories": {
+    "03-integration": [
+      "connection-toolkit",
+      "write-api"
+    ]
+  },
+  "skills": [
+    {
+      "name": "connection-toolkit",
+      "category": "03-integration",
+      "path": "skills/connection-toolkit",
+      "description": "验证Huly只读连接，检索任务、文档和关联资料。",
+      "chinese_name": "Huly连接与检索"
+    },
+    {
+      "name": "write-api",
+      "category": "03-integration",
+      "path": "skills/write-api",
+      "description": "构建和验证Huly安全写入接口，按匹配内容追加文档。",
+      "chinese_name": "Huly文档写入工具"
+    }
+  ],
+  "title": "HULY-TOOLS-SKILL",
+  "repository": "https://github.com/wzy83608-ux/HULY-TOOLS-SKILL"
+}
